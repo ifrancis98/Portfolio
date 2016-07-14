@@ -26,4 +26,7 @@ body {
   color: #000;
   border-color: #000;
 }
+<div id="outer" style="width:100%">  
+  <div id="inner">Foo foo</div>
+</div>
 
